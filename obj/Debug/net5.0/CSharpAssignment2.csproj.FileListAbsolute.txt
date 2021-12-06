@@ -1,0 +1,16 @@
+D:\C#__\CSharpAssignment2\bin\Debug\net5.0\CSharpAssignment2.exe
+D:\C#__\CSharpAssignment2\bin\Debug\net5.0\CSharpAssignment2.deps.json
+D:\C#__\CSharpAssignment2\bin\Debug\net5.0\CSharpAssignment2.runtimeconfig.json
+D:\C#__\CSharpAssignment2\bin\Debug\net5.0\CSharpAssignment2.runtimeconfig.dev.json
+D:\C#__\CSharpAssignment2\bin\Debug\net5.0\CSharpAssignment2.dll
+D:\C#__\CSharpAssignment2\bin\Debug\net5.0\ref\CSharpAssignment2.dll
+D:\C#__\CSharpAssignment2\bin\Debug\net5.0\CSharpAssignment2.pdb
+D:\C#__\CSharpAssignment2\obj\Debug\net5.0\CSharpAssignment2.csprojAssemblyReference.cache
+D:\C#__\CSharpAssignment2\obj\Debug\net5.0\CSharpAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#__\CSharpAssignment2\obj\Debug\net5.0\CSharpAssignment2.AssemblyInfoInputs.cache
+D:\C#__\CSharpAssignment2\obj\Debug\net5.0\CSharpAssignment2.AssemblyInfo.cs
+D:\C#__\CSharpAssignment2\obj\Debug\net5.0\CSharpAssignment2.csproj.CoreCompileInputs.cache
+D:\C#__\CSharpAssignment2\obj\Debug\net5.0\CSharpAssignment2.dll
+D:\C#__\CSharpAssignment2\obj\Debug\net5.0\ref\CSharpAssignment2.dll
+D:\C#__\CSharpAssignment2\obj\Debug\net5.0\CSharpAssignment2.pdb
+D:\C#__\CSharpAssignment2\obj\Debug\net5.0\CSharpAssignment2.genruntimeconfig.cache
